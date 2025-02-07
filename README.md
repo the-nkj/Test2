@@ -1,2 +1,2 @@
 # Test2
-Self Git Repo
+Self Git Repo . I am checking Pull And Merge.
